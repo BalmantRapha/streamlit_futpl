@@ -667,7 +667,7 @@ elif opcao == "📑 Documentação":
             epl_dados.head(5)""", 
             language='python')
     
-    epl_dados = pd.read_csv("C:\projetos\Analise_Fut_PremierLeague\epl_final.csv", sep=",", encoding="utf-8")
+    epl_dados = pd.read_csv("epl_final.csv", sep=",", encoding="utf-8")
     with st.expander("Resultado", expanded=True):
         st.dataframe(epl_dados.head(5))
     
