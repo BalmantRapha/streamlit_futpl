@@ -663,7 +663,7 @@ elif opcao == "📑 Documentação":
     st.write("**📌 Carregando a base de dados**")
     st.code("""
             # Atenção: O caminho do arquivo deve ser ajustado conforme o local onde o arquivo CSV está salvo
-            epl_dados = pd.read_csv("C:\projetos\Analise_Fut_PremierLeague\epl_final.csv", sep=",", encoding="utf-8")
+            epl_dados = pd.read_csv("epl_final.csv", sep=",", encoding="utf-8")
             epl_dados.head(5)""", 
             language='python')
     
