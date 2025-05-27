@@ -17,7 +17,7 @@ import seaborn as sns
 #==================================================================================================================================#
 
 # Lendo o arquivo CSV
-epl = pd.read_csv("C:\projetos\Analise_Fut_PremierLeague\epl_final.csv", sep=",", encoding="utf-8")
+epl = pd.read_csv("epl_final.csv", sep=",", encoding="utf-8")
 
 # Criando um dicionário de dados
 dicionario= {
