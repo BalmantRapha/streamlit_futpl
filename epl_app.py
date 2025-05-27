@@ -1243,19 +1243,19 @@ elif opcao == "📑 Documentação":
 elif opcao == "ℹ️ Sobre o Autor":
     st.subheader("**Raphael Balmant**")
 
-    st.write("Profissional com experiência em automação de processos, análise de dados e visualização, especializado no uso de ferramentas como Excel, Power BI, SQL, Python e R.\n"
-             "\n Atuação na construção de dashboards interativos e relatórios estratégicos, transformando dados complexos em insights acionáveis para apoiar a tomada de decisões. Experiência na elaboração de apresentações executivas para diretoria e stakeholders, garantindo comunicação clara e objetiva dos dados.\n"
-             "\n Habilidades em automação de processos utilizando VBA e Power Automate, otimizando fluxos operacionais e melhorando a eficiência das equipes. Forte conhecimento em controle de pagamentos, análise de indicadores e suporte comercial, aplicando conceitos de Data-Driven Decision Making para aprimorar processos e estratégias de negócio.")
+    st.write("Profissional com formação em **Gestão Financeira** e **MBA em Data Science e Analytics**, especializado em análise de dados, automação de processos e visualização interativa de informações.\n"
+             "\n Experiência prática no uso de ferramentas como Excel, Power BI, SQL, Python e R, com atuação destacada na construção de dashboards interativos e relatórios estratégicos que transformam dados complexos em insights valiosos para tomada de decisão.\n"
+             "\n Habilidades em automação de processos utilizando VBA, Python e Power Automate, otimizando fluxos operacionais e melhorando a eficiência das equipes. Vivência na criação de apresentações executivas para diretoria e stakeholders, traduzindo dados em mensagens claras e impactantes.")
 
     st.write("🧑‍🎓 Competências:\n"
              "\n * Análise e visualização de dados (Power BI, Excel)\n"
-             "\n * Automação de processos (VBA, Power Automate)\n"
+             "\n * Automação de processos (VBA, Python, Power Automate)\n"
              "\n* Banco de dados e manipulação de dados (SQL, Python, R)\n"
              "\n * Elaboração de relatórios e apresentações executivas\n"
              "\n * Controle e otimização de fluxos operacionais")
     
-    st.write("🚀 Interesse em oportunidades para aplicar e expandir conhecimentos em análise de dados, BI e automação de processos.")
-    st.write("📩 Aberto a conexões e oportunidades na área de dados.")
+    st.write("🚀 Em busca de novas oportunidades para aplicar e expandir meus conhecimentos em Business Intelligence, análise de dados e automação de processos, contribuindo para a transformação digital e tomada de decisões orientadas por dados.")
+    st.write("📩 Aberto a conexões e parcerias profissionais na área de dados.")
 
     st.write("🔗 Linkedin: https://www.linkedin.com/in/raphael-henrique-balmant/")
 
